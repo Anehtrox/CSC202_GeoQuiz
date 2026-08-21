@@ -17,7 +17,7 @@ Android quiz app (Kotlin, MVC + ViewModel) built for CSC202 Mobile App Project, 
 
 ## Setup notes
 
-- New project created as **Empty View Activity** (not Empty Activity/Compose), Groovy DSL build files, per Week 2 workshop guidance.
+- New project created as **Empty View Activity** (not Empty Activity/Compose).
 - min SDK 24, target/compile SDK 34, view binding enabled.
 
 ## Opening the project
